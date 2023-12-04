@@ -6,7 +6,7 @@ import Post from "./pages/Post";
 import axios from "axios";
 import ViewPost from './pages/ViewPost';
 
-axios.defaults.baseURL = "http://70.93.18.122:3000";
+axios.defaults.baseURL = "https://backend-o0ye.onrender.com/";
 axios.defaults.withCredentials = true;
 
 
